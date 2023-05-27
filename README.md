@@ -1,3 +1,3 @@
-[![zhpmatrix's GitHub stats](https://github-readme-stats-teal.vercel.app/api?username=zhpmatrix&show_icons=truet&include_all_commits=True&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![zhpmatrix's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zhpmatrix&show_icons=truet&include_all_commits=True&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhpmatrix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
