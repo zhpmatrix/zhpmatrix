@@ -3,6 +3,8 @@
 
 - **SHOW ME YOUR CODE!**
 - email:zhpmatrix@gmail.com
+- 微信公众号《KBQA沉思录》主理人
+- 个人博客:[zhpmatrix.github.io](https://zhpmatrix.github.io/)
 - 🎓 Master of Computer Science
 - 养了好几盆绿植🌳，还有一只巴西龟和台湾花龟，还有一只精力无限的猫🐱，想养一只柴犬
 - 写码，看书，写文章，打篮球，吹牛
