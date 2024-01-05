@@ -1,17 +1,16 @@
 
 ## Introduction
-- 👋 Hi, I’m @Junhui Yu
-- 👀 Interested in coding
-- 🌱 Natural language processing Alchemist
-- 💞️ Research areas: nested named entity recognition, machine reading comprehension
-- 📫 email:cs.yujunhui@gmail.com
-- 🎓 Master of Computer Science
-- ✔  From 2020, new life, new warehouse, new start!
 
-<a href="https://github.com/yujunhuics">
+- **SHOW ME YOUR CODE!**
+- email:zhpmatrix@gmail.com
+- 🎓 Master of Computer Science
+- 养了好几盆绿植🌳，还有一只巴西龟和台湾花龟，还有一只精力无限的猫🐱，想养一只柴犬
+- 写码，看书，写文章，打篮球，吹牛
+- 年少时想成为一个作家，很酷的工作
+  
+<a href="https://github.com/zhpmatrix">
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhpmatrix&show_icons=truet&include_all_commits=True&hide=contribs)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-
 
 <p align="center"> 
   Visitor count<br>
